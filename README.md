@@ -1,1 +1,1 @@
-# predict_crim_hackearth
+# solving binary classification problem using different machine learning approaches
